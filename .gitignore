@@ -1,0 +1,9 @@
+node_modules
+dist
+*.local
+*.tsbuildinfo
+scripts/.cache
+
+*.apk
+release/
+.DS_Store
