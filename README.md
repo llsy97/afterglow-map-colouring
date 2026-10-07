@@ -28,7 +28,7 @@ cd android
 ```
 
 > Windows에서 경로에 한글이 있으면(예: `바탕 화면`) Gradle이 빌드를 거부한다. `android/`와 `node_modules/@capacitor/`를
-> 영문 경로(예: `C:	lm-build`)로 복사해서 거기서 빌드하고, `android/local.properties`에는
+> 영문 경로(예: `C:\tlm-build`)로 복사해서 거기서 빌드하고, `android/local.properties`에는
 > `sdk.dir=C:/Users/<이름>/AppData/Local/Android/Sdk` 처럼 슬래시 경로를 쓴다.
 
 사진/백업 저장은 앱에서 시스템 공유 창(파일에 저장, 드라이브, 갤러리 …)으로 처리한다.
